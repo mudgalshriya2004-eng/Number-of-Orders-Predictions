@@ -1,0 +1,11 @@
+date,product_category,price,discount,marketing_campaign,orders
+2023-01-01,Electronics,1200,10,1,320
+2023-01-02,Electronics,1150,5,0,280
+2023-01-03,Electronics,1100,15,1,360
+2023-01-04,Fashion,80,20,1,500
+2023-01-05,Fashion,75,10,0,420
+2023-01-06,Grocery,30,5,0,800
+2023-01-07,Grocery,28,0,0,750
+2023-01-08,Grocery,25,10,1,920
+2023-01-09,Electronics,1250,0,0,260
+2023-01-10,Fashion,90,25,1,610
